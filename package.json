@@ -1,0 +1,20 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "description": "[semantic-release](https://semantic-release.gitbook.io/semantic-release/) automates the whole package release workflow including: determining the next version number, generating the release notes, and publishing the package.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrimesdev/semantic-release.git"
+  },
+  "keywords": [],
+  "author": "Adam Chrimes (https://github.com/chrimesdev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrimesdev/semantic-release/issues"
+  },
+  "homepage": "https://github.com/chrimesdev/semantic-release#readme"
+}
